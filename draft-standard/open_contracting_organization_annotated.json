@@ -1,6 +1,6 @@
 {
     "opencontract-organization": {
-        "id": "Organization ID - unique using a mechanism similar to IATI org ID",
+        "id": "Globally Unique Organization ID - based on the IATI Organisation ID standard (http://iatistandard.org/guides/organisation-data/organisation-identifiers/)",
         "name": "Plain english name of the organization / department",
         "contact": {
             "person-name": "The name of the contact person at the organisation.",

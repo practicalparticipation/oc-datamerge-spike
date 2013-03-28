@@ -5,7 +5,7 @@
             "@last-updated-datetime": "DateTime stamp of date this document was last updated.",
             "opencontract-organization-id": {
                 "@organization-type": "Indicates whether organization is a contracting or supplier. Optional. In the meta data this should always be a contracting organization and in the award a supplier.",
-                "#text": "Organization ID links record to organization in registry"
+                "#text": "Globally Unique Organization ID, based on existing identifiers, and linking to further details held in an opencontract-organisation record"
             },
             "opencontract-organization-contact": "Dictionary with same fields as 'opencontract-organization'.'contact' that can be used to override standard contact details.",
             "opencontract-id": "ID to uniquely identify this contracting activity through the workflow from call -> award -> performance -> completion / termination - similar to IATI activity ID",
